@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/broxsonl/using-fs-readfile#readme",
   "devDependencies": {
+    "bluebird": "^3.4.6",
     "eslint": "^3.11.0"
   }
 }
