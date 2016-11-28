@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/broxsonl/using-fs-readfile/issues"
   },
-  "homepage": "https://github.com/broxsonl/using-fs-readfile#readme"
+  "homepage": "https://github.com/broxsonl/using-fs-readfile#readme",
+  "devDependencies": {
+    "eslint": "^3.11.0"
+  }
 }
