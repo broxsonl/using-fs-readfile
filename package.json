@@ -1,0 +1,23 @@
+{
+  "name": "using-fs-readfile",
+  "version": "1.0.0",
+  "description": "Using fs-readfile with several async methods.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broxsonl/using-fs-readfile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/broxsonl/using-fs-readfile/issues"
+  },
+  "homepage": "https://github.com/broxsonl/using-fs-readfile#readme"
+}
