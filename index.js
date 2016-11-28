@@ -6,7 +6,6 @@ const promiseMethod = require('./lib/promises.js');
 callbackMethod(printIt);
 promiseMethod(printIt);
 
-
 function printIt(data) {
   console.log(data);
 }
